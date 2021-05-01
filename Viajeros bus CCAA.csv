@@ -1,32 +1,32 @@
-CCAA;Mes;A�o;Viajeros
-Andaluc�a;febrero;2021;8627
-Andaluc�a;enero;2021;8888
-Andaluc�a;diciembre;2020;10079
-Andaluc�a;noviembre;2020;9503
-Andaluc�a;octubre;2020;11499
-Andaluc�a;septiembre;2020;10631
-Andaluc�a;agosto;2020;8572
-Andaluc�a;julio;2020;9633
-Andaluc�a;junio;2020;7927
-Andaluc�a;mayo;2020;3602
-Andaluc�a;abril;2020;1662
-Andaluc�a;marzo;2020;9238
-Andaluc�a;febrero;2020;18262
-Andaluc�a;enero;2020;18151
-Arag�n;febrero;2021;6443
-Arag�n;enero;2021;6020
-Arag�n;diciembre;2020;6666
-Arag�n;noviembre;2020;6432
-Arag�n;octubre;2020;7068
-Arag�n;septiembre;2020;6652
-Arag�n;agosto;2020;4446
-Arag�n;julio;2020;5762
-Arag�n;junio;2020;5356
-Arag�n;mayo;2020;2351
-Arag�n;abril;2020;918
-Arag�n;marzo;2020;5003
-Arag�n;febrero;2020;10979
-Arag�n;enero;2020;10783
+﻿CCAA;Mes;Año;Viajeros
+Andalucía;febrero;2021;8627
+Andalucía;enero;2021;8888
+Andalucía;diciembre;2020;10079
+Andalucía;noviembre;2020;9503
+Andalucía;octubre;2020;11499
+Andalucía;septiembre;2020;10631
+Andalucía;agosto;2020;8572
+Andalucía;julio;2020;9633
+Andalucía;junio;2020;7927
+Andalucía;mayo;2020;3602
+Andalucía;abril;2020;1662
+Andalucía;marzo;2020;9238
+Andalucía;febrero;2020;18262
+Andalucía;enero;2020;18151
+Aragón;febrero;2021;6443
+Aragón;enero;2021;6020
+Aragón;diciembre;2020;6666
+Aragón;noviembre;2020;6432
+Aragón;octubre;2020;7068
+Aragón;septiembre;2020;6652
+Aragón;agosto;2020;4446
+Aragón;julio;2020;5762
+Aragón;junio;2020;5356
+Aragón;mayo;2020;2351
+Aragón;abril;2020;918
+Aragón;marzo;2020;5003
+Aragón;febrero;2020;10979
+Aragón;enero;2020;10783
 Asturias;febrero;2021;1453
 Asturias;enero;2021;1544
 Asturias;diciembre;2020;1531
@@ -55,20 +55,20 @@ Canarias;abril;2020;670
 Canarias;marzo;2020;2978
 Canarias;febrero;2020;5622
 Canarias;enero;2020;5817
-Castilla y Le�n;febrero;2021;3235
-Castilla y Le�n;enero;2021;2910
-Castilla y Le�n;diciembre;2020;3292
-Castilla y Le�n;noviembre;2020;3154
-Castilla y Le�n;octubre;2020;3586
-Castilla y Le�n;septiembre;2020;3293
-Castilla y Le�n;agosto;2020;2586
-Castilla y Le�n;julio;2020;2970
-Castilla y Le�n;junio;2020;2009
-Castilla y Le�n;mayo;2020;711
-Castilla y Le�n;abril;2020;339
-Castilla y Le�n;marzo;2020;2808
-Castilla y Le�n;febrero;2020;6152
-Castilla y Le�n;enero;2020;6058
+Castilla y León;febrero;2021;3235
+Castilla y León;enero;2021;2910
+Castilla y León;diciembre;2020;3292
+Castilla y León;noviembre;2020;3154
+Castilla y León;octubre;2020;3586
+Castilla y León;septiembre;2020;3293
+Castilla y León;agosto;2020;2586
+Castilla y León;julio;2020;2970
+Castilla y León;junio;2020;2009
+Castilla y León;mayo;2020;711
+Castilla y León;abril;2020;339
+Castilla y León;marzo;2020;2808
+Castilla y León;febrero;2020;6152
+Castilla y León;enero;2020;6058
 Castilla - La Mancha;febrero;2021;895
 Castilla - La Mancha;enero;2021;663
 Castilla - La Mancha;diciembre;2020;971
@@ -83,20 +83,20 @@ Castilla - La Mancha;abril;2020;138
 Castilla - La Mancha;marzo;2020;848
 Castilla - La Mancha;febrero;2020;1774
 Castilla - La Mancha;enero;2020;1739
-Catalu�a;febrero;2021;15054
-Catalu�a;enero;2021;13482
-Catalu�a;diciembre;2020;15581
-Catalu�a;noviembre;2020;15412
-Catalu�a;octubre;2020;17094
-Catalu�a;septiembre;2020;15328
-Catalu�a;agosto;2020;10488
-Catalu�a;julio;2020;13730
-Catalu�a;junio;2020;9987
-Catalu�a;mayo;2020;4471
-Catalu�a;abril;2020;1837
-Catalu�a;marzo;2020;12881
-Catalu�a;febrero;2020;26622
-Catalu�a;enero;2020;25823
+Cataluña;febrero;2021;15054
+Cataluña;enero;2021;13482
+Cataluña;diciembre;2020;15581
+Cataluña;noviembre;2020;15412
+Cataluña;octubre;2020;17094
+Cataluña;septiembre;2020;15328
+Cataluña;agosto;2020;10488
+Cataluña;julio;2020;13730
+Cataluña;junio;2020;9987
+Cataluña;mayo;2020;4471
+Cataluña;abril;2020;1837
+Cataluña;marzo;2020;12881
+Cataluña;febrero;2020;26622
+Cataluña;enero;2020;25823
 Comunitat Valenciana;febrero;2021;5327
 Comunitat Valenciana;enero;2021;5387
 Comunitat Valenciana;diciembre;2020;7293
@@ -167,17 +167,17 @@ Murcia;abril;2020;107
 Murcia;marzo;2020;880
 Murcia;febrero;2020;1884
 Murcia;enero;2020;1768
-Pa�s Vasco;febrero;2021;4751
-Pa�s Vasco;enero;2021;4718
-Pa�s Vasco;diciembre;2020;5078
-Pa�s Vasco;noviembre;2020;4964
-Pa�s Vasco;octubre;2020;5451
-Pa�s Vasco;septiembre;2020;4929
-Pa�s Vasco;agosto;2020;3702
-Pa�s Vasco;julio;2020;4444
-Pa�s Vasco;junio;2020;3635
-Pa�s Vasco;mayo;2020;1701
-Pa�s Vasco;abril;2020;656
-Pa�s Vasco;marzo;2020;3551
-Pa�s Vasco;febrero;2020;7880
-Pa�s Vasco;enero;2020;7895
+País Vasco;febrero;2021;4751
+País Vasco;enero;2021;4718
+País Vasco;diciembre;2020;5078
+País Vasco;noviembre;2020;4964
+País Vasco;octubre;2020;5451
+País Vasco;septiembre;2020;4929
+País Vasco;agosto;2020;3702
+País Vasco;julio;2020;4444
+País Vasco;junio;2020;3635
+País Vasco;mayo;2020;1701
+País Vasco;abril;2020;656
+País Vasco;marzo;2020;3551
+País Vasco;febrero;2020;7880
+País Vasco;enero;2020;7895
