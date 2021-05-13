@@ -1,0 +1,139 @@
+{
+   "TotalViajeros":[
+       {
+           "ciudad":"BARCELONA",           
+           "viajeros":339028,
+           "poblacion":1664182,
+           "ratio":203
+           
+       },
+        {
+           "ciudad":"BILBAO",           
+           "viajeros":77768,
+           "poblacion":350184,
+           "ratio":222
+        },
+        {
+           "ciudad":"MADRID",           
+           "viajeros":591515,
+           "poblacion":3334730,
+           "ratio":177
+        },
+        {
+           "ciudad":"MALAGA",           
+           "viajeros":29375,
+           "poblacion":578460,
+           "ratio":50
+        },
+        {
+           "ciudad":"PALMA",           
+           "viajeros":21109,
+           "poblacion":422587,
+           "ratio":49
+        },
+       
+        {
+           "ciudad":"SEVILLA",           
+           "viajeros":52206,
+           "poblacion":1939887,
+           "ratio":26
+        },
+        {
+           "ciudad":"VALENCIA",           
+           "viajeros":88835,
+           "poblacion":800215,
+           "ratio":111
+        }    
+       
+   ], 
+    
+"Transporte":{
+    "BARCELONA":[
+            {
+                "x":"BUS",
+                "y":121100
+    
+            },
+            {
+                "x":"METRO",
+                "y":217928
+    
+            }
+    ],
+
+    "BILBAO":[
+            {
+                "x":"BUS",
+                "y":21781
+    
+            },
+            {
+                "x":"METRO",
+                "y":55987
+    
+            }
+    ],
+    "MADRID":[
+            {
+                "x":"BUS",
+                "y":241670
+    
+            },
+            {
+                "x":"METRO",
+                "y":349845
+    
+            }
+    ],
+    "MALAGA":[
+            {
+                "x":"BUS",
+                "y":25750
+    
+            },
+            {
+                "x":"METRO",
+                "y":3625
+    
+            }
+    ],
+    "PALMA":[
+            {
+                "x":"BUS",
+                "y":20534
+    
+            },
+            {
+                "x":"METRO",
+                "y":575
+    
+            }
+    ],
+    "SEVILLA":[
+            {
+                "x":"BUS",
+                "y":44409
+    
+            },
+            {
+                "x":"METRO",
+                "y":7797
+    
+            }
+    ],
+    "VALENCIA":[
+            {
+                "x":"BUS",
+                "y":51851
+    
+            },
+            {
+                "x":"METRO",
+                "y":36984
+    
+            }
+    ]
+
+}
+    
+}
